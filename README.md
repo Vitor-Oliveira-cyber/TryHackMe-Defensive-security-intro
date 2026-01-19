@@ -1,4 +1,4 @@
-# TryHackMe-Defensive-security-intro
+# TryHackMe-Defensive-Security-intro
 Registro prático dos conhecimentos obtidos neste laboratório da plataforma TryHackMe
 
 ![Conclusão do Laboratório](https://raw.githubusercontent.com/Vitor-Oliveira-cyber/TryHackMe-Defensive-security-intro/refs/heads/main/ConclusaoDoLab.png)
