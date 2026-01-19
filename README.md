@@ -1,7 +1,8 @@
 # TryHackMe-Defensive-security-intro
 Registro prático dos conhecimentos obtidos neste laboratório da plataforma TryHackMe
 
-[Conclusão do Laboratório](./TryhackMe.png)
+![Conclusão do Laboratório](https://raw.githubusercontent.com/Vitor-Oliveira-cyber/TryHackMe-Defensive-security-intro/refs/heads/main/ConclusaoDoLab.png)
+
 
 ## Conteúdos abordados
 - Diferença entre eventos, alertas e incidentes;
